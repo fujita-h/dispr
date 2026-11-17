@@ -15,7 +15,7 @@ Win32 API の `SetThreadExecutionState` を使用して、ディスプレイの�
 ## 必要環境
 
 - Windows 10 / 11
-- [.NET 9 SDK](https://dotnet.microsoft.com/download/dotnet/9.0)
+- [.NET 10 SDK](https://dotnet.microsoft.com/download/dotnet/10.0)
 
 ## ビルド
 
